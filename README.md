@@ -1,6 +1,6 @@
 # ➰ loop-imation ➰
 
-Loop-imation is a short set of examples of building looping geometric animations in p5.js, first used for a short workshop by Rasagy Sharma at Processing Community Day 2020 in Bengaluru (India).
+Loop-imation is a set of examples of building looping geometric animations in p5.js, first used for a short workshop by Rasagy Sharma at Processing Community Day 2020 in Bengaluru (India).
 
 # Slides
 [Available on Google Slides](https://drive.google.com/file/d/1ViZERKbJZK8m-mmkUfG5tLdIAl3Dx0QG/view?usp=sharing)
@@ -32,8 +32,11 @@ Built using the delightful [p5.createLoop library](https://www.npmjs.com/package
 ![8 circles revolving](https://github.com/rasagy/loopimation/raw/master/GIFs/revolve-set.gif)](https://editor.p5js.org/rasagy/sketches/-dTQTaf0)
 --
 
-## References
+# References
 1. [Golan Levin’s lecture with historical context](https://github.com/golanlevin/lectures/blob/master/lecture_loops/README.md)
 2. [Dan Shiffman’s Coding Train video on making looping animations](https://youtu.be/nBKwCCtWlUg)
 3. [Bees and bombs by Dr. Dave Whyte](https://beesandbombs.tumblr.com/)
 4. [Saskia Freeke’s daily art](https://sasj.tumblr.com/)
+
+# Contribute
+Have an idea? Made some interesting loops using p5.createLoop? Add an issue/send a PR!
