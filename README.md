@@ -3,7 +3,7 @@
 Loop-imation is a set of examples of building looping geometric animations in p5.js, first used for a short workshop by Rasagy Sharma at Processing Community Day 2020 in Bengaluru (India).
 
 # Slides
-[Available on Google Slides](https://drive.google.com/file/d/1ViZERKbJZK8m-mmkUfG5tLdIAl3Dx0QG/view?usp=sharing)
+[Available on Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vQJ2FKo1CLBtGffSHj2aE4EBIf03Ypnez-5IFmkS1d3HTPRUNG1xWNm89dZWwrwg8izVesFusXBuzhf/pub?start=false&loop=false&delayms=60000)
 
 # Evaluating other looping animations
 1. Why is this a loop?
