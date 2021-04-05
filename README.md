@@ -6,12 +6,13 @@ Loop-imation is a set of examples of building looping geometric animations in p5
 [Available on Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vQJ2FKo1CLBtGffSHj2aE4EBIf03Ypnez-5IFmkS1d3HTPRUNG1xWNm89dZWwrwg8izVesFusXBuzhf/pub?start=false&loop=false&delayms=60000)
 
 # Evaluating other looping animations
-1. Why is this a loop?
-2. When does it loop? 
-3. How does it loop? 
+1. _Why_ is this a loop?
+2. _When_ does it loop? 
+3. _How_ does it loop? 
 
 # Code examples (Opens in P5.js Web Editor)
-Built using the delightful [p5.createLoop library](https://www.npmjs.com/package/p5.createloop)
+You can find all the starter codes in [this neat P5 collection](https://editor.p5js.org/rasagy/collections/DRw2rbHnP).
+Built using the delightful [p5.createLoop library](https://www.npmjs.com/package/p5.createloop).
 
 ## 1. Start from nothing, make something & eventually fade to nothing
 [Fade & grow
